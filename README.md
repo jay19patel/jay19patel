@@ -1,7 +1,6 @@
-
+<div align="center"><a href="www.natkhatjay.com" align="center">www.natkhatjay.com</a></div>
 <h1 align="center">Me as Coder : Jay Patel</h1>
 <h3 align="center">Python Developer</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jay19patel&label=Profile%20views&color=0e75b6&style=flat" alt="jay19patel" /> </p>
 
 # 💫 About Me:
